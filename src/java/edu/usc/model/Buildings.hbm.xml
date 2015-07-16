@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 19:47:49 05-10-2011 by Hibernate Tools 3.2.1.GA -->
+<hibernate-mapping>
+    <class name="edu.usc.model.Buildings" table="BUILDINGS" schema="TEAM18">
+        <id name="id" type="big_decimal">
+            <column name="ID" precision="22" scale="0" />
+            <generator class="assigned" />
+        </id>
+        <property name="name" type="string">
+            <column name="NAME" length="100" />
+        </property>
+        <property name="shortname" type="string">
+            <column name="SHORTNAME" length="3" />
+        </property>
+        <property name="address" type="string">
+            <column name="ADDRESS" length="100" />
+        </property>
+        <property name="location" type="serializable">
+            <column name="LOCATION" />
+        </property>
+    </class>
+</hibernate-mapping>

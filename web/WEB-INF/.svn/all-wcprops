@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/icampus/!svn/ver/291/CSCI587SERVER/web/WEB-INF
+END
+validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/icampus/!svn/ver/291/CSCI587SERVER/web/WEB-INF/validation.xml
+END
+struts-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/icampus/!svn/ver/291/CSCI587SERVER/web/WEB-INF/struts-config.xml
+END
+validator-rules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/icampus/!svn/ver/291/CSCI587SERVER/web/WEB-INF/validator-rules.xml
+END
+beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/icampus/!svn/ver/291/CSCI587SERVER/web/WEB-INF/beans.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/icampus/!svn/ver/291/CSCI587SERVER/web/WEB-INF/web.xml
+END
+tiles-defs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/icampus/!svn/ver/291/CSCI587SERVER/web/WEB-INF/tiles-defs.xml
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/icampus/!svn/ver/291/CSCI587SERVER/src/java/edu/usc/controller
+END
+LoginAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/icampus/!svn/ver/291/CSCI587SERVER/src/java/edu/usc/controller/LoginAction.java
+END
+RectangleQueryAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/icampus/!svn/ver/291/CSCI587SERVER/src/java/edu/usc/controller/RectangleQueryAction.java
+END
+NNQueryAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/icampus/!svn/ver/291/CSCI587SERVER/src/java/edu/usc/controller/NNQueryAction.java
+END
+PolygonQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/icampus/!svn/ver/291/CSCI587SERVER/src/java/edu/usc/controller/PolygonQuery.java
+END
+WithinDistanceQueryAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/icampus/!svn/ver/291/CSCI587SERVER/src/java/edu/usc/controller/WithinDistanceQueryAction.java
+END
+SaveLocationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/icampus/!svn/ver/291/CSCI587SERVER/src/java/edu/usc/controller/SaveLocationAction.java
+END
+PolygonQueryAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/icampus/!svn/ver/291/CSCI587SERVER/src/java/edu/usc/controller/PolygonQueryAction.java
+END
+KNNQueryAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/icampus/!svn/ver/291/CSCI587SERVER/src/java/edu/usc/controller/KNNQueryAction.java
+END

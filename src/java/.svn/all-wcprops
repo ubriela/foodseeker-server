@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/icampus/!svn/ver/291/CSCI587SERVER/src/java
+END
+hibernate.reveng.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/icampus/!svn/ver/291/CSCI587SERVER/src/java/hibernate.reveng.xml
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/icampus/!svn/ver/291/CSCI587SERVER/src/java/hibernate.cfg.xml
+END
+hibernate_statistic.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/icampus/!svn/ver/291/CSCI587SERVER/src/java/hibernate_statistic.cfg.xml
+END
+hibernate1.reveng.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/icampus/!svn/ver/291/CSCI587SERVER/src/java/hibernate1.reveng.xml
+END
+hibernate1.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/icampus/!svn/ver/291/CSCI587SERVER/src/java/hibernate1.cfg.xml
+END
+hibernate_statistic.reveng.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/icampus/!svn/ver/291/CSCI587SERVER/src/java/hibernate_statistic.reveng.xml
+END

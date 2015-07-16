@@ -1,0 +1,41 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package edu.usc.services;
+
+import edu.usc.utils.OracleConnect2;
+import java.awt.geom.Point2D;
+import java.sql.SQLException;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+
+/**
+ *
+ * @author ubriela
+ */
+public class StatisticServices {
+
+    public void saveLocation(int uid, Point2D location) {
+	try {
+	    double lon = location.getX();
+	    double lat = location.getY();
+	    
+	    //  Get session id
+	    String sessionId = "1";
+
+	    String sqlQuery = "INSERT INTO USERSTATISTIC(sessionid, userid, time, location) VALUES( "
+		    + sessionId + ", " + uid + ", CURRENT_TIMESTAMP(3),"
+		    + "SDO_GEOMETRY(2001,8307,SDO_POINT_TYPE("
+		    + lon + ", " + lat
+		    + ", NULL),NULL,NULL))";
+
+	    System.out.println(sqlQuery);
+	    OracleConnect2 connect = new OracleConnect2();
+	    connect.updateQuery(sqlQuery);
+
+	} catch (SQLException ex) {
+	    Logger.getLogger(StatisticServices.class.getName()).log(Level.SEVERE, null, ex);
+	}
+    }
+}

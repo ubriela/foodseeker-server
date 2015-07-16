@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/icampus/!svn/ver/291/CSCI587SERVER/src/java/edu/usc/test/model
+END
+MicroMarket.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/icampus/!svn/ver/291/CSCI587SERVER/src/java/edu/usc/test/model/MicroMarket.java
+END
+Product.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/icampus/!svn/ver/291/CSCI587SERVER/src/java/edu/usc/test/model/Product.java
+END
+Customer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/icampus/!svn/ver/291/CSCI587SERVER/src/java/edu/usc/test/model/Customer.java
+END
+DiscountCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/icampus/!svn/ver/291/CSCI587SERVER/src/java/edu/usc/test/model/DiscountCode.java
+END
+PurchaseOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/icampus/!svn/ver/291/CSCI587SERVER/src/java/edu/usc/test/model/PurchaseOrder.java
+END
+ProductCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/icampus/!svn/ver/291/CSCI587SERVER/src/java/edu/usc/test/model/ProductCode.java
+END
+ProductCode.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/icampus/!svn/ver/291/CSCI587SERVER/src/java/edu/usc/test/model/ProductCode.hbm.xml
+END
+PurchaseOrder.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/icampus/!svn/ver/291/CSCI587SERVER/src/java/edu/usc/test/model/PurchaseOrder.hbm.xml
+END
+Customer.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/icampus/!svn/ver/291/CSCI587SERVER/src/java/edu/usc/test/model/Customer.hbm.xml
+END
+DiscountCode.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/icampus/!svn/ver/291/CSCI587SERVER/src/java/edu/usc/test/model/DiscountCode.hbm.xml
+END
+Product.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/icampus/!svn/ver/291/CSCI587SERVER/src/java/edu/usc/test/model/Product.hbm.xml
+END
+MicroMarket.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/icampus/!svn/ver/291/CSCI587SERVER/src/java/edu/usc/test/model/MicroMarket.hbm.xml
+END
+Manufacturer.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/icampus/!svn/ver/291/CSCI587SERVER/src/java/edu/usc/test/model/Manufacturer.hbm.xml
+END
+Manufacturer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/icampus/!svn/ver/291/CSCI587SERVER/src/java/edu/usc/test/model/Manufacturer.java
+END
